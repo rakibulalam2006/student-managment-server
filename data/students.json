@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6,
+    "name": "Michael Brown",
+    "email": "michael.brown@school.edu",
+    "grade": "10th",
+    "sub": "Computer Science",
+    "status": "Graduated"
+  },
+  {
+    "id": 7,
+    "name": "Emily Davis",
+    "email": "emily.davis@school.edu",
+    "grade": "12th",
+    "sub": "Biology",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "name": "James Wilson",
+    "email": "james.wilson@school.edu",
+    "grade": "9th",
+    "sub": "Spanish",
+    "status": "Active"
+  },
+  {
+    "id": 9,
+    "name": "Olivia Martinez",
+    "email": "olivia.martinez@school.edu",
+    "grade": "11th",
+    "sub": "Art",
+    "status": "Inactive"
+  },
+  {
+    "id": 1784039929257,
+    "name": "rohim",
+    "email": "rohim@gmail.com",
+    "grade": "5th",
+    "sub": "civil",
+    "status": "Active"
+  },
+  {
+    "id": 1784040652426,
+    "name": "sifat",
+    "email": "sifat@gmail.com",
+    "grade": "12th",
+    "sub": "civil",
+    "status": "Active"
+  }
+]
