@@ -72,7 +72,7 @@ app.patch("/students/:id", async (req, res) => {
       JSON.stringify(students, null, 2),
     );
 
-    res.send(student);
+    res.send(students[index]);
   } finally {
   }
 });

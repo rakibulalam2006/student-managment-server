@@ -1,19 +1,12 @@
 [
   {
-    "id": 6,
-    "name": "Michael Brown",
-    "email": "michael.brown@school.edu",
-    "grade": "10th",
-    "sub": "Computer Science",
-    "status": "Graduated"
-  },
-  {
     "id": 7,
     "name": "Emily Davis",
     "email": "emily.davis@school.edu",
     "grade": "12th",
     "sub": "Biology",
-    "status": "Active"
+    "status": "Active",
+    "subject": "Chemistry"
   },
   {
     "id": 8,
@@ -21,7 +14,8 @@
     "email": "james.wilson@school.edu",
     "grade": "9th",
     "sub": "Spanish",
-    "status": "Active"
+    "status": "Active",
+    "subject": "EEE"
   },
   {
     "id": 9,
@@ -29,7 +23,8 @@
     "email": "olivia.martinez@school.edu",
     "grade": "11th",
     "sub": "Art",
-    "status": "Inactive"
+    "status": "Inactive",
+    "subject": "civil"
   },
   {
     "id": 1784039929257,
@@ -37,14 +32,7 @@
     "email": "rohim@gmail.com",
     "grade": "5th",
     "sub": "civil",
-    "status": "Active"
-  },
-  {
-    "id": 1784040652426,
-    "name": "sifat",
-    "email": "sifat@gmail.com",
-    "grade": "12th",
-    "sub": "civil",
-    "status": "Active"
+    "status": "Active",
+    "subject": "Mechanical"
   }
 ]
